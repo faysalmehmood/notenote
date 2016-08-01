@@ -97,7 +97,9 @@ header {
 footer {
 	background: $dark_gray;
 	width: 100%;
-	padding: 2rem 0;
+	padding: 1rem 0;
+	position: fixed;
+	bottom: 0;
 	color: white;
 	text-align: center;
 	@include bold_font;

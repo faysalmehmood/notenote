@@ -17,3 +17,10 @@
  @import 'global.css.scss';
  @import 'notes.css.scss';
  @import 'welcome.css.scss';
+
+.callout {
+	i {
+		font-size: 1.20rem;
+		color: $green;
+	}
+}
